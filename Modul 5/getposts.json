@@ -1,0 +1,54 @@
+{
+ "data": [
+ {
+  "postID": "1",
+  "postTitle": "Webbtjänster",
+  "postUrl": "https://course.easec.se/kurswebbm1.php",
+  "postKurs": "Webbtjänster"
+ }, {
+  "postID": "2",
+  "postTitle": "Tjänsteorienterad arkitektur",
+  "postUrl": "https://course.easec.se/kurswebbm2.php",
+  "postKurs": "Webbtjänster"
+ }, {
+  "postID": "3",
+  "postTitle": "Designmönster",
+  "postUrl": "https://course.easec.se/kurswebbm3.php",
+  "postKurs": "Webbtjänster"
+ }, {
+  "postID": "4",
+  "postTitle": "Molnet",
+  "postUrl": "https://course.easec.se/kurswebbm4.php",
+  "postKurs": "Webbtjänster"
+ }, {
+  "postID": "5",
+  "postTitle": "Content Management System",
+  "postUrl": "https://course.easec.se/kurscontm1.php",
+  "postKurs": "Content Management System"
+ }, {
+  "postID": "6",
+  "postTitle": "WordPress",
+  "postUrl": "https://course.easec.se/kurscontm2.php",
+  "postKurs": "Content Management System"
+ }, {
+  "postID": "7",
+  "postTitle": "Förändra WordPress",
+  "postUrl": "https://course.easec.se/kurscontm4.php",
+  "postKurs": "Content Management System"
+ }, {
+  "postID": "8",
+  "postTitle": "Joomla!",
+  "postUrl": "https://course.easec.se/kurscontm5.php",
+  "postKurs": "Content Management System"
+ }, {
+  "postID": "9",
+  "postTitle": "Administration av Joomla!",
+  "postUrl": "https://course.easec.se/kurscontm6.php",
+  "postKurs": "Content Management System"
+ }, {
+  "postID": "10",
+  "postTitle": "Drupal",
+  "postUrl": "https://course.easec.se/kurscontm7.php",
+  "postKurs": "Content Management System"
+ }]
+}
